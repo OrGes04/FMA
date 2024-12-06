@@ -1,0 +1,27 @@
+body {
+    background: url(Background.webp);
+    background-blend-mode: color;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: rgb(255, 136, 0);
+    background: rgb(255, 128, 0);
+    background: linear-gradient(325deg, rgba(255, 128, 0, 1) 0%, rgba(255, 255, 255, 1) 63%);
+}
+
+nav ul {
+    background-color: rgba(255, 255, 255, 0.623);
+}
+
+nav ul li {
+    color: rgb(255, 159, 63);
+    text-decoration: underline;
+}
+
+section p {
+    background: rgb(158, 0, 255);
+    background: linear-gradient(325deg, rgba(158, 0, 255, 1) 0%, rgba(255, 255, 255, 1) 63%);
+    color: rgb(45, 0, 73);
+}
